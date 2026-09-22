@@ -139,7 +139,7 @@ class DashboardPage extends StatelessWidget {
 
                   Text(
 
-                    "Flutter Mobile Developer Beginner",
+                    "Belajar Flutter, Dart, dan Mobile Development",
 
                     style: TextStyle(
 
