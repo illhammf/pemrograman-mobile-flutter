@@ -47,12 +47,11 @@ class ProfilePage extends StatelessWidget {
 
               const SizedBox(width: 16),
 
-              Expanded(
-                child: Column(
+                Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: const [
                     Text(
-                      'Ilham Firmansyah',
+                      'Ilham Firmansyah Mahasiswa Fakulatas Ilmu Komputer Program Studi Teknik Informatika',
                       style: TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
@@ -61,7 +60,6 @@ class ProfilePage extends StatelessWidget {
                     Text('20240801102'),
                   ],
                 ),
-              ),
             ],
           ),
         ),
